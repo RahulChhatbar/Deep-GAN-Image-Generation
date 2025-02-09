@@ -57,5 +57,5 @@ After training for 50 epochs and 250 epochs, the following are saved:
 Here is an example of the generated image from **Run 2 (250th Epoch)**:
 
 <p align="center">
-  <img src="../output/run_2/generated_images/image_at_epoch_0250.png" alt="Generated Image at Epoch 250"/>
+  <img src="output/run_2/generated_images/image_at_epoch_0250.png" alt="Generated Image at Epoch 250"/>
 </p>
